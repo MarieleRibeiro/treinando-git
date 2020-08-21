@@ -2,4 +2,4 @@
 
 ## h2
 
-treinando git
+treinando
